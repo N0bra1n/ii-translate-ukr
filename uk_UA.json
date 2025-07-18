@@ -111,7 +111,7 @@
   "Set with /mode PROVIDER": "Встановлено з /mode ПОСТАЧАЛЬНИК",
   "Invalid API provider. Supported: \n-": "Недійсний постачальник API. Підтримувані: \n-",
   "Unknown command:": "Невідома команда:",
-  "Type /key to get started with online models\nCtrl+O to expand the sidebar\nCtrl+P to detach sidebar into a window": "Натисніть клавішу /, щоб розпочати роботу з онлайн-моделями\nCtrl+O, щоб розгорнути бічну панель\nCtrl+P, щоб від’єднати бічну панель від вікна",
+  "Type /key to get started with online models\nCtrl+O to expand the sidebar\nCtrl+P to detach sidebar into a window": "Натисніть /, щоб розпочати роботу з онлайн-моделями\nCtrl+O, щоб розгорнути бічну панель\nCtrl+P, щоб від’єднати бічну панель від вікна",
   "The current API used. Endpoint:": "Поточний API використовується. Кінцева точка:",
   "Provider set to": "Постачальник встановлений на",
   "Invalid model. Supported: \n```": "Недійсна модель. Підтримувані: \n```",
