@@ -1,5 +1,5 @@
 # ii-translate-ukr
-illogical impulse translated to Ukrainian
+Переклад [illogical impulse](https://github.com/end-4/dots-hyprland) українською
 
 Файл закиньте в `~/.config/quickshell/translations/`
 
