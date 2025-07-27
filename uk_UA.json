@@ -311,4 +311,9 @@
   "Pressure": "Тиск",
   "Visibility": "Видимість",
   "Precipitation": "Опади"
+  "Wallpaper parallax": "Паралакс шпалер",
+  "Depends on workspace": "Залежить від робочого простору",
+  "Depends on sidebars": "Залежить від бічних панелей",
+  "Preferred wallpaper zoom (%)": "Бажаний масштаб шпалер (%)",
+  "Performance Profile toggle": "Перемикач профілю продуктивності"
 }
