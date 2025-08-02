@@ -58,7 +58,7 @@
   "Launch": "Запуск",
   "Lock": "Заблокувати",
   "Logout": "Вийти",
-  "Markdown test": "Markdown test",
+  "Markdown test": "Тест Markdown",
   "Math result": "Результат обчислення",
   "Night Light": "Нічне світло",
   "No audio source": "Немає джерела звуку",
@@ -95,7 +95,7 @@
   "The hentai one | Great quantity, a lot of NSFW, quality varies wildly": "Хентай | Велика кількість, багато NSFW, якість дуже різна",
   "The popular one | Best quantity, but quality can vary wildly": "Популярний варіант | Найкраща кількість, але якість може сильно відрізнятися",
   "Thinking": "Обмірковування",
-  "Translation goes here...": "Переклад тут...",
+  "Translation goes here...": "Переклад буде тут...",
   "Translator": "Перекладач",
   "Unfinished": "Незавершені",
   "Unknown": "Невідомо",
@@ -315,5 +315,13 @@
   "Depends on workspace": "Залежить від робочого простору",
   "Depends on sidebars": "Залежить від бічних панелей",
   "Preferred wallpaper zoom (%)": "Бажаний масштаб шпалер (%)",
-  "Performance Profile toggle": "Перемикач профілю продуктивності"
+  "Performance Profile toggle": "Перемикач профілю продуктивності",
+  "API key is set\nChange with /key YOUR_API_KEY": "API ключ встановлено\nЗмінити можна командою /key ВАШ_API_КЛЮЧ",
+  "Current tool: %1\nSet it with %2tool TOOL": "Поточний інструмент: %1\nВстановіть його командою %2tool TOOL",
+  "No API key\nSet it with /key YOUR_API_KEY": "Немає API ключа\nВстановіть його можна командою /key ВАШ_API_КЛЮЧ",
+  "Temperature\nChange with /temp VALUE": "Температура\nЗмінити можна командою /temp ЗНАЧЕННЯ",
+  "Night Light | Right-click to toggle Auto mode": "Нічне світло | ПКМ щоб увімкнути автоматичний режим",
+  "Up %1": "Час роботи: %1",
+  "Sidebars": "Бічні панелі",
+  "Keep right sidebar loaded": "Залишати праву бічну панель завантаженою"
 }
