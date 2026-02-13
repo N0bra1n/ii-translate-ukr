@@ -321,7 +321,7 @@
   "No API key\nSet it with /key YOUR_API_KEY": "Немає API ключа\nВстановіть його можна командою /key ВАШ_API_КЛЮЧ",
   "Temperature\nChange with /temp VALUE": "Температура\nЗмінити можна командою /temp ЗНАЧЕННЯ",
   "Night Light | Right-click to toggle Auto mode": "Нічне світло | ПКМ щоб увімкнути автоматичний режим",
-  "Up %1": "Час роботи: %1",
+  "Up": "Час роботи",
   "Sidebars": "Бічні панелі",
   "Keep right sidebar loaded": "Залишати праву бічну панель завантаженою",
     "Memory usage": "Використання пам'яті",
